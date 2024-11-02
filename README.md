@@ -64,8 +64,7 @@
       <pre><code>git clone https://github.com/your-username/bank-of-america-stock-analysis.git
 cd bank-of-america-stock-analysis</code></pre>
     </li>
-    <li>Install the required libraries:
-      <pre><code>pip install -r requirements.txt</code></pre>
+    <li>Install the required libraries
     </li>
   </ol>
 
