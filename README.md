@@ -91,10 +91,5 @@ cd bank-of-america-stock-analysis</code></pre>
   <p>
     This project presents a comprehensive view of Bank of America’s stock performance, highlighting trends and technical signals that may inform future stock analysis and investment strategies.
   </p>
-
-  <h2>License</h2>
-  <p>
-    This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.
-  </p>
 </body>
 </html>
